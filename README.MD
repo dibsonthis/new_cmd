@@ -12,12 +12,12 @@ This will create the following:
 
 Folder "NewProj"
 
-&nbsp;&nbsp;&nbsp;&nbsp;Folder "code"
+> Folder "code"
 	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;File program.cpp
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;build.bat
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;debug.bat
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;edit.bat
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;run.bat
+>> program.cpp
+>> build.bat
+>> debug.bat
+>> edit.bat
+>> run.bat
 		
-&nbsp;&nbsp;&nbsp;&nbsp;Folder "build"
+> Folder "build"
