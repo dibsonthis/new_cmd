@@ -11,10 +11,13 @@ new NewProj c++
 This will create the following:
 
 Folder "NewProj"
-	Folder "code"
-		File program.cpp
-		build.bat
-		debug.bat
-		edit.bat
-		run.bat
-	Folder "build"
+
+&nbsp;&nbsp;&nbsp;&nbsp;Folder "code"
+	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;File program.cpp
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;build.bat
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;debug.bat
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;edit.bat
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;run.bat
+		
+&nbsp;&nbsp;&nbsp;&nbsp;Folder "build"
