@@ -21,3 +21,11 @@ Folder "NewProj"
 >> run.bat
 		
 > Folder "build"
+
+Running build.bat will build program.cpp into the build folder.
+
+Running edit.bat [file - optional] will open program.cpp in VSCode if no arg provided, otherwise it will open the file provided in VSCode.
+
+Running debug.bat runs devenv on program.exe.
+
+Running run.bat runs program.exe.
